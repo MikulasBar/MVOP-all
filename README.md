@@ -1,3 +1,4 @@
 # satellite_tracker
 
-A new Flutter project.
+Displays when particullar satellite can be seen.
+Only Text output yet.
